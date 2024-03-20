@@ -101,7 +101,7 @@ height: fit-content;
 }
 
 .intro-wrapper {
-  transition: 1500ms;
+  transition: 1200ms;
   position: relative;
   z-index: 100;
 }
@@ -353,7 +353,7 @@ margin-bottom: var(--large-gap);
 /* title page */
 
 .title-page {
-padding-top: 80px;
+padding-top: 84px;
 margin-bottom: var(--large-gap);
 /* scroll-margin-top: 64px; */
 }
@@ -389,10 +389,11 @@ justify-content: center;
   position: sticky;
   bottom: 0;
   width: 100%;
-  padding: 20px;
+  padding: 21px 0px 20px 0px;
+
 font-size: var(--small-text);
   text-align: center;
-  background: linear-gradient(to top, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 90%,rgba(255,255,255,0) 100%);
+  background: linear-gradient(to top, rgba(255,255,255,1) 0%, rgba(255,255,255,1) 92%,rgba(255,255,255,0) 100%);
 
 }
 
