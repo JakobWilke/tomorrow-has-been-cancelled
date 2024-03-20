@@ -101,7 +101,7 @@ height: fit-content;
 }
 
 .intro-wrapper {
-  transition: 500ms;
+  transition: 1500ms;
   position: relative;
   z-index: 100;
 }
