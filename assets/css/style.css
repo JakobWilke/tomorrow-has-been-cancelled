@@ -179,7 +179,7 @@ header {
 }
 
 .book-subtitle {
-  padding-top: 32px;
+  padding-top: 28px;
   font-size: var(--heading2);
   text-align: center;
 }
