@@ -353,7 +353,7 @@ margin-bottom: var(--large-gap);
 /* title page */
 
 .title-page {
-padding-top: 84px;
+/* padding-top: 84px; */
 margin-bottom: var(--large-gap);
 /* scroll-margin-top: 64px; */
 }
@@ -527,11 +527,11 @@ line-height: var(--body-lh);
 }
 
 .diary-long {
-  hyphens: auto;
+  /* hyphens: auto;
   hyphenate-limit-chars: 6 2 4;
-  -webkit-hyphenate-limit-before: 2; /* For Safari */
-  -webkit-hyphenate-limit-after: 4; /* For Safari */
-  -ms-hyphenate-limit-chars: 6 2 4;
+  -webkit-hyphenate-limit-before: 2; 
+  -webkit-hyphenate-limit-after: 4; 
+  -ms-hyphenate-limit-chars: 6 2 4; */
 }
 
 .diary-container .diary p:first-of-type {
